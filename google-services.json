@@ -1,0 +1,69 @@
+{
+  "project_info": {
+    "project_number": "1687246938",
+    "firebase_url": "https://loginproject-8f3b6.firebaseio.com",
+    "project_id": "loginproject-8f3b6",
+    "storage_bucket": "loginproject-8f3b6.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1687246938:android:a486c0d01ee170a1726063",
+        "android_client_info": {
+          "package_name": "com.example.loginproject"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1687246938-fqf43oe3u11resto9gf5fdb7n3dp943v.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC-bnxRURy0QyfO0UqcpPTuUnjaNdTwMiw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1687246938-fqf43oe3u11resto9gf5fdb7n3dp943v.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1687246938:android:c9f9dd9c261e9e79726063",
+        "android_client_info": {
+          "package_name": "com.example.loginregister"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1687246938-fqf43oe3u11resto9gf5fdb7n3dp943v.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC-bnxRURy0QyfO0UqcpPTuUnjaNdTwMiw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1687246938-fqf43oe3u11resto9gf5fdb7n3dp943v.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
